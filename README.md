@@ -10,7 +10,6 @@ ongoing review, the following are withheld and will be released upon acceptance:
 - benchmark datasets and their preprocessing
 - configuration files and runtime settings
 - trained model checkpoints
-- the scripts that drive visual fact extraction, reasoning generation and detector training
 
 The code published here is therefore not intended to be run end to end in its current form.
 
