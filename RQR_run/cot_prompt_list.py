@@ -67,7 +67,7 @@ Based on the provided content, please reason and identify the veracity of the ne
 ## Example (EXAMPLE ONLY):
 
 News Text:
-据匿名消息人士透露，2024年1月15日，北京天安门广场发生大规模抗议活动，已有超过10000人在冲突中死亡。同一篇报道中又表示现场秩序良好，没有发生严重冲突。
+According to an anonymous source, on January 15, 2024, a large-scale protest took place at Tiananmen Square in Beijing, and more than 10,000 people have died in the clashes. The same report also stated that order was maintained at the scene and no serious clashes occurred. According to an anonymous source, a large-scale protest took place at Tiananmen Square in Beijing on January 15, 2024, and more than 10,000 people have died in the clashes. The same report also stated that order was maintained at the scene and no serious clashes occurred.
 
 Output:
 {{
